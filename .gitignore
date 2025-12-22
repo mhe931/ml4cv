@@ -222,9 +222,9 @@ __marimo__/
 .venv/.*
 .venv/*/*
 
-*/train/*
-*/test/*
-resources/test/*
-resources/train/*
-resources/test/.*
-resources/train/.*
+*/training/*
+*/testing/*
+resources/testing/*
+resources/training/*
+resources/testing/.*
+resources/training/.*
