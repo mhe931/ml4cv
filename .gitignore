@@ -214,7 +214,7 @@ __marimo__/
 ./CIFAR10-small/*/.*
 ./CIFAR10-small/*/*/*
 ./CIFAR10-small/*/*/.*
-resources/CIFAR10-small/testing/image_0000.png
+
 
 
 .venv/
@@ -222,5 +222,9 @@ resources/CIFAR10-small/testing/image_0000.png
 .venv/.*
 .venv/*/*
 
-./train/*
-./test/*
+*/train/*
+*/test/*
+resources/test/*
+resources/train/*
+resources/test/.*
+resources/train/.*
