@@ -47,7 +47,7 @@ We increased the training epochs to 100.
 - **Observation**: The training accuracy continued to improve, while the validation accuracy plateaued and lagged behind.
 - **Conclusion**: This indicates **Overfitting**. The model is memorizing the training noise rather than learning generalizable features.
 
-![Accuracy Plot](task4_accuracy.png)
+![Accuracy Plot](./resources/task4_accuracy.png)
 *(Note: Plot generated in local workspace)*
 
 ## 5. Visualization of Weights
